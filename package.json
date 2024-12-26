@@ -1,9 +1,9 @@
 {
     "name": "OneEuroForSkier",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": "src/mod.js",
     "license": "CC BY-NC-ND 4.0",
-    "author": "UnderdomeRiot",
+    "author": "underdomeriot",
     "sptVersion": "~3.10",
 	"loadBefore": [],
 	"loadAfter": [],
