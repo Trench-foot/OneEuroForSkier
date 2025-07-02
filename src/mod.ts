@@ -84,7 +84,7 @@ class OneEuroForSkier implements IPostDBLoadMod
     private updateTrader(trader: ITrader): void 
     {
         const barterScheme = trader.assort.barter_scheme;
-        const euroitem = "66e802a0ea847a407f0e4e65";
+        const euroitem = "677536ee7949f87882036fb0";
         const exchangeEntry = barterScheme[euroitem]?.[0]?.[0];
 
         // Retrieve the exchange rate for RUB to EUR if available
